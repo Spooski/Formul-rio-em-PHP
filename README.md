@@ -1,2 +1,2 @@
-# Formul-rio-em-PHP
-Um pequeno projeto
+# Formulário-em-PHP
+Um pequeno projeto - Desenvolvido para faculdade
